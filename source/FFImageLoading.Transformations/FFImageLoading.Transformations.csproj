@@ -37,7 +37,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\FFImageLoading.Common\FFImageLoading.csproj" />
     <ProjectReference Include="..\FFImageLoading.Mock\FFImageLoading.Mock.csproj">
       <ReferenceSourceTarget></ReferenceSourceTarget>
     </ProjectReference>

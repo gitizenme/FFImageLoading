@@ -67,7 +67,7 @@
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\iOS\Xamarin.iOS.CSharp.targets" />
   <ItemGroup>
     <ProjectReference Include="..\FFImageLoading.Common\FFImageLoading.csproj">
-      <Project>{51CA3BE2-DF00-4F49-8054-E5C776992B61}</Project>
+      <Project>{F64A9281-44CF-47A3-BC05-7E8DB7BE0DAC}</Project>
       <Name>FFImageLoading</Name>
     </ProjectReference>
     <ProjectReference Include="..\FFImageLoading.Touch\FFImageLoading.Touch.csproj">
