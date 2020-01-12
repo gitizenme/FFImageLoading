@@ -69,7 +69,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\FFImageLoading.Common\FFImageLoading.csproj">
-      <Project>{F64A9281-44CF-47A3-BC05-7E8DB7BE0DAC}</Project>
+      <Project>{51CA3BE2-DF00-4F49-8054-E5C776992B61}</Project>
       <Name>FFImageLoading</Name>
     </ProjectReference>
     <ProjectReference Include="..\FFImageLoading.Droid\FFImageLoading.Droid.csproj">
