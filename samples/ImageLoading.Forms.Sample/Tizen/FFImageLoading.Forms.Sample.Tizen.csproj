@@ -6,12 +6,12 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Tizen.NET" Version="5.0.0.14629">
+    <PackageReference Include="Tizen.NET" Version="6.0.0.14995">
       <ExcludeAssets>Runtime</ExcludeAssets>
     </PackageReference>
     <PackageReference Include="Tizen.NET.Sdk" Version="1.0.1" />
     <PackageReference Include="Xamarin.Forms.Platform.Tizen" Version="2.5.1.444934" />
-    <PackageReference Include="Xamarin.Forms" Version="4.4.0.991265" />
+    <PackageReference Include="Xamarin.Forms" Version="4.4.0.991477" />
   </ItemGroup>
 
   <ItemGroup>
